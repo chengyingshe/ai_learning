@@ -1,0 +1,6 @@
+code/.ipynb_checkpoints/
+code/*_results/
+code/*.h5
+notebook/__pycache__/
+notebook/data/
+notebook/*.keras
