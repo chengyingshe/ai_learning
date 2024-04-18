@@ -1,0 +1,4 @@
+code/.idea/
+notebook/__pycache__/
+notebook/data/
+notebook/*.pt
